@@ -13,6 +13,8 @@
 		FA6CF12226D41B4E003AA16C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6CF12026D41B4E003AA16C /* Main.storyboard */; };
 		FA6CF12426D41B4F003AA16C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6CF12326D41B4F003AA16C /* Assets.xcassets */; };
 		FA6CF12726D41B4F003AA16C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6CF12526D41B4F003AA16C /* LaunchScreen.storyboard */; };
+		FA6CF13026D42CFF003AA16C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6CF12F26D42CFF003AA16C /* DetailViewController.swift */; };
+		FAC6530F26D49BE8002E7A44 /* shuva.png in Resources */ = {isa = PBXBuildFile; fileRef = FAC6530E26D49BE8002E7A44 /* shuva.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FA6CF12326D41B4F003AA16C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA6CF12626D41B4F003AA16C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA6CF12826D41B4F003AA16C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA6CF12F26D42CFF003AA16C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		FAC6530E26D49BE8002E7A44 /* shuva.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shuva.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +64,9 @@
 				FA6CF11C26D41B4E003AA16C /* SceneDelegate.swift */,
 				FA6CF11E26D41B4E003AA16C /* ViewController.swift */,
 				FA6CF12026D41B4E003AA16C /* Main.storyboard */,
+				FA6CF12F26D42CFF003AA16C /* DetailViewController.swift */,
 				FA6CF12326D41B4F003AA16C /* Assets.xcassets */,
+				FAC6530E26D49BE8002E7A44 /* shuva.png */,
 				FA6CF12526D41B4F003AA16C /* LaunchScreen.storyboard */,
 				FA6CF12826D41B4F003AA16C /* Info.plist */,
 			);
@@ -127,6 +133,7 @@
 				FA6CF12726D41B4F003AA16C /* LaunchScreen.storyboard in Resources */,
 				FA6CF12426D41B4F003AA16C /* Assets.xcassets in Resources */,
 				FA6CF12226D41B4E003AA16C /* Main.storyboard in Resources */,
+				FAC6530F26D49BE8002E7A44 /* shuva.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,6 +147,7 @@
 				FA6CF11F26D41B4E003AA16C /* ViewController.swift in Sources */,
 				FA6CF11B26D41B4E003AA16C /* AppDelegate.swift in Sources */,
 				FA6CF11D26D41B4E003AA16C /* SceneDelegate.swift in Sources */,
+				FA6CF13026D42CFF003AA16C /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
